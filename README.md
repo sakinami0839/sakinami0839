@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h2><samp>About Panxi39</samp></h2>
+  <h2><samp>About Shirakawa Sakinami</samp></h2>
 
   <h3>
     <samp>💻 Pure computer enthusiast.</samp><br />
