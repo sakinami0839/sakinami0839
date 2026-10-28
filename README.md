@@ -4,8 +4,7 @@
 
   <h3>
     <samp>💻 Pure computer enthusiast.</samp><br />
-    <samp>⚙️ C & Assembly lover, coroutine and zero-copy lover.</samp><br />
-    <samp>🛡️ Please protect humans from AI slop.</samp>
+    <samp>🛡️ Protect humans from AI slop.</samp>
   </h3>
 
   <h4><samp>Languages</samp></h4>
